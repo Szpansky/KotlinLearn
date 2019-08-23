@@ -2,6 +2,88 @@
 Repozytorium przeznaczone dla najmłodszych do nauki programowania
 
 
+## Konfiguracja programu IntelliJ
+
+
+### Pobieranie
+
+Program należy pobrać z linku 
+* [Intellij] - Kompilator - <a href="https://www.jetbrains.com/idea/download/#section=windows/">Pobierz Oprogramowanie</a>
+
+
+### Pierwsze uruchomienie, stworzenie projektu
+
+Po uruchomieniu stwórz nowy projekt:
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/1_1.PNG" alt="Main Screen 1"/>
+</p>
+
+Wybierz język Kotlin
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/1_2.PNG" alt="Main Screen 1"/>
+</p>
+
+Wprowadź nazwę projektu (w przypadku braku SDK należy pobrać z : <a href="https://www.oracle.com/technetwork/es/java/javasebusiness/downloads/index.html">Pobierz SDK</a>
+lub postępować według wskazówek programu IntelliJ
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/1_3.PNG" alt="Main Screen 1"/>
+</p>
+
+
+### Przygotowanie środowiska pracy
+
+Stwórz nową klase/plik, w określonej lokalizacji, zgodnei z grafika poniżej
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/2_1.jpg" alt="Main Screen 1"/>
+</p>
+
+Wprowadź nazwę pliku oraz rodzaj
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/2_2.jpg" alt="Main Screen 1"/>
+</p>
+
+
+### Tworzenie programu
+
+Komentarze w programie wyglądają następująco
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/3_2.jpg" alt="Main Screen 1"/>
+</p>
+
+Napisz podstawową funkcję main (instrukcja poniżej)
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/3_1.jpg" alt="Main Screen 1"/>
+</p>
+
+Wprowadź funkcję oraz logikę programu który będziesz realizował
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/3_3.jpg" alt="Main Screen 1"/>
+</p>
+
+
+### Uruchamianie projektu
+
+Z menu kontekstowego u góry wybierz 'Run' a następnie 'Run...' lub użyj skrótu Alt+Shift+F10
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/4_1.jpg" alt="Main Screen 1"/>
+</p>
+
+Z wyświetlonego dialogu wybierz Twoją główną funkcję main
+
+<p align="center">
+<img src="https://github.com/Szpansky/KotlinLearn/blob/master/img/4_2.jpg" alt="Main Screen 1"/>
+</p>
+
+
 ## Podstawowe informacje
 
 
