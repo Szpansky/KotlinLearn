@@ -11,6 +11,7 @@ import java.util.*
  * To w niej tworzymy:
  * - Logikę programu
  */
+
 fun main(args: Array<String>) {
     /**
      * Zmienna
@@ -153,16 +154,16 @@ fun main(args: Array<String>) {
     }
 
 
-    print("Wprowadź język pl lub en : ")
-    val wprowadzonyJęzyk = readLine()!!
-
-
     /**
      * Funkcja if - jeżeli
      * Warunek logiczny
      * contentEquals() - wbudowana funkcja która sprawdza
      * czy w ciągu znaków jest wprowadzony przesłany podciąg
      */
+
+
+    print("Wprowadź język pl lub en : ")
+    val wprowadzonyJęzyk = readLine()!!
 
 
     if (wprowadzonyJęzyk.contentEquals("pl")) {
